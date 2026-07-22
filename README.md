@@ -74,4 +74,12 @@ Please include a brief description and the site's primary language(s).
 
 ---
 
+## 📝 Guides & Articles
+
+### 2026-07
+- [Rebirth Chinese Short Dramas: The Ultimate 2026 Watch Guide](content/guide/2026-07-22-rebirth-chinese-short-drama-guide.md)
+- [Watch Chinese Short Dramas Overseas — Complete 2026 Guide](content/guide/2026-07-23-watch-chinese-short-drama-overseas-guide.md)
+
+---
+
 *Maintained by [@xindongduanju](https://github.com/xindongduanju) — part of the 心动短剧 ecosystem.*
