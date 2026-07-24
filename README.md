@@ -1,8 +1,10 @@
-# awesome-chinese-short-drama 🎬
+# Awesome Chinese Short Drama [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of Chinese vertical short dramas, streaming platforms, tools, and resources.
+> A curated list of Chinese vertical short-drama platforms, international viewing guides, genre discovery pages, and developer resources.
 
-Short-form vertical dramas (竖屏短剧 / 微短剧) have exploded in China with **696 million users** — 70% of the internet population. This list helps developers, content creators, and drama fans discover and build in this fast-growing ecosystem.
+Chinese vertical short dramas (竖屏短剧 / 微短剧) use mobile-first episodes and fast narrative arcs. This list helps viewers, researchers, and developers find actively maintained resources for discovering and building around the format.
+
+Last reviewed: **July 2026**
 
 ---
 
@@ -10,7 +12,7 @@ Short-form vertical dramas (竖屏短剧 / 微短剧) have exploded in China wit
 
 ### Web (Free / Freemium)
 
-- [Xindong Short Drama (心动短剧)](https://xindongduanju.com) — Free Chinese short drama streaming. 50+ series, vertical playback, multi-language subtitles (EN/ES/JA/ZH). Next.js + Turso stack.
+- [Xindong Short Drama (心动短剧)](https://xindongduanju.com/en) — Browser-based Chinese short-drama catalog with direct web playback, stable title pages, and English topic discovery.
 - [ShortDrama.st](https://shortdrama.st) — 30,000+ series across EN/CN/KR/ES. No paywall.
 - [ChineseDramaFree.com](https://chinesedramafree.com) — English-language gateway for Chinese short dramas.
 
@@ -37,12 +39,12 @@ Short-form vertical dramas (竖屏短剧 / 微短剧) have exploded in China wit
 
 ---
 
-## 🌍 Multi-Language Discovery
+## 🌍 International Discovery
 
-- [English long-tail keywords](https://xindongduanju.com/topics/long-tail/en) — "watch Chinese short drama online", "best Chinese vertical drama"
-- [Spanish keywords](https://xindongduanju.com/topics/long-tail/es) — "dramas cortos chinos gratis"
-- [Japanese keywords](https://xindongduanju.com/topics/long-tail/ja) — "中国ショートドラマ 無料"
-- [Chinese keywords](https://xindongduanju.com/topics/long-tail/zh) — 4,496 long-tail queries across 125 topics
+- [English short-drama catalog](https://xindongduanju.com/en)
+- [English genre and trope guides](https://xindongduanju.com/en/topics)
+- [Guide to watching Chinese short dramas](https://xindongduanju.com/guides/watch-chinese-short-drama)
+- [Chinese genre and trope directory](https://xindongduanju.com/topics)
 
 ---
 
@@ -53,12 +55,9 @@ Short-form vertical dramas (竖屏短剧 / 微短剧) have exploded in China wit
 
 ---
 
-## 📊 Industry Data (2025–2026)
+## 📊 Research Checklist
 
-- Market size: ¥634B RMB ($87B USD)
-- Users: 696M in China
-- Top apps by H1 2025 revenue: ReelShort ($1.66B), DramaBox ($1.46B), ShortMax ($557M)
-- Source: 36Kr, Chinaz, industry reports
+When adding market data, link to the original report and state its publication date, geography, and measurement method. Avoid copying unsourced download, revenue, or active-user estimates.
 
 ---
 
@@ -82,4 +81,8 @@ Please include a brief description and the site's primary language(s).
 
 ---
 
-*Maintained by [@xindongduanju](https://github.com/xindongduanju) — part of the 心动短剧 ecosystem.*
+## Disclosure
+
+This repository is maintained by the team behind Xindong Short Drama. Entries should still meet the same maintenance, relevance, and working-link criteria regardless of affiliation.
+
+*Maintained by [@scccslience-cell](https://github.com/scccslience-cell).*
